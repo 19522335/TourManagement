@@ -1,0 +1,289 @@
+D:\HOC TAP\C#\Tour\Tour\bin\Debug\Tour.exe.config
+D:\HOC TAP\C#\Tour\Tour\bin\Debug\Tour.exe
+D:\HOC TAP\C#\Tour\Tour\bin\Debug\Tour.pdb
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.exe
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.pdb
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\HOC TAP\C#\Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\bin\Debug\Tour.exe.config
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\bin\Debug\Tour.exe
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\bin\Debug\Tour.pdb
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.DangKy.resources
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.LoginForm.resources
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.exe
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.pdb
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.TOUR.resources
+C:\Users\HOME\Downloads\Đồ Án CNPM\Tour\Tour\obj\Debug\Tour.ManageTour.resources
+D:\dự án\CNPM\Tour\Tour\bin\Debug\Tour.exe.config
+D:\dự án\CNPM\Tour\Tour\bin\Debug\Tour.exe
+D:\dự án\CNPM\Tour\Tour\bin\Debug\Tour.pdb
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.Route.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.exe
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.pdb
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\dự án\CNPM\Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\E-Tour\Tour\bin\Debug\Tour.exe
+D:\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\E-Tour\Tour\obj\Debug\Tour.exe
+D:\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\dự án\CNPM\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\dự án\CNPM\E-Tour\Tour\bin\Debug\Tour.exe
+D:\dự án\CNPM\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.exe
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\DoAN\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\DoAN\E-Tour\Tour\bin\Debug\Tour.exe
+D:\DoAN\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.exe
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\DoAN\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.exe
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\ĐỒÁN\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\ĐỒÁN\E-Tour\Tour\bin\Debug\Tour.exe
+D:\ĐỒÁN\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\ĐỒÁN\E-Tour\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\bin\Debug\Tour.exe
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.exe
+D:\dự án\CNPM\E-Tour\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\DOANCNPM\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\DOANCNPM\E-Tour\Tour\bin\Debug\Tour.exe
+D:\DOANCNPM\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.exe
+D:\DOANCNPM\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\bin\Debug\Tour.exe
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.exe
+D:\dự án\CNPM\E - Tour\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\bin\Debug\Tour.exe.config
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\bin\Debug\Tour.exe
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\bin\Debug\Tour.pdb
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.AboutUs.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.ChangePass.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.DangKy.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.forgotpass.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.Help.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.LoginForm.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.SelectForm.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.Tour.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.Route.resources
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.exe
+D:\ĐỒ ÁN CNPM\E-Tour\Tour\obj\Debug\Tour.pdb
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\dự án\CNPM\E-Tour\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe.config
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.pdb
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.AboutUs.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.ChangePass.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.DangKy.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.forgotpass.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Help.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.LoginForm.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.SelectForm.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Tour.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Route.resources
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.exe
+D:\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.pdb
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe.config
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.pdb
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.AboutUs.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.ChangePass.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.DangKy.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.forgotpass.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Help.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.LoginForm.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.RegisterAccount.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.SelectForm.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.StaffProfile.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Tour.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Properties.Resources.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Route.resources
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.exe
+C:\Users\Admin\Desktop\TÀI LIỆU CNPM- E TOUR- TEAM 4\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.pdb
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe.config
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.pdb
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.AboutUs.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.ChangePass.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.DangKy.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.forgotpass.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Help.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.LoginForm.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.RegisterAccount.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.SelectForm.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.StaffProfile.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Tour.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Properties.Resources.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Route.resources
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.exe
+C:\Users\Admin\Desktop\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.pdb
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe.config
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.exe
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\bin\Debug\Tour.pdb
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.AssemblyReference.cache
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.AboutUs.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.ChangePass.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.DangKy.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.forgotpass.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Help.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.LoginForm.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.RegisterAccount.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.SelectForm.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.StaffProfile.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Tour.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Properties.Resources.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.Route.resources
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.exe
+C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.pdb
