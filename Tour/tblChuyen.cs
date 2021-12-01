@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Tour
 {
-    class tblChuyen
+    public class tblChuyen
     {
         public string identify { set; get; }
-       
+
         public string MaTuyen { set; get; }
         public string MaChuyen { set; get; }
         public DateTime ThoiGianKhoiHanh { set; get; }

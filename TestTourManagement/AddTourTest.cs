@@ -6,12 +6,18 @@ using Tour;
 
 namespace TestTourManagement
 {
-    public class ResetPasswordTest
+    public class AddTourTest
     {
+        [SetUp]
+        public void Setup()
+        {
+        }
+
         [Test]
         public void Test1()
         {
-            Assert.AreEqual(true, TestFunction.ResestPasswordFunction("123456", "123456"));
+            tblChuyen tour = new tblChuyen();
+            Assert.AreEqual(true, TestFunction.AddTourFunction(tour));
         }
     }
 }

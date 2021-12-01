@@ -3,7 +3,7 @@ use TourManagement
 SET DATEFORMAT dmy
 --"Phần tuyến tạo bảng bằng tay kéo xuống column properties chỉnh identity specification = yes"
 --Tài khoản dự phòng--
-Insert into UserID values('19522335@gm.uit.edu.vn','gdyb21LQTcIANtvYMT7QVQ==','Hoang','Tien','079750') --gdyb21LQTcIANtvYMT7QVQ== là password được mã hóa có giá trị =1234--
+ --gdyb21LQTcIANtvYMT7QVQ== là password được mã hóa có giá trị =1234--
 create table UserID (
 	Email nvarchar(50),
 	Password nvarchar(50),
@@ -11,6 +11,7 @@ create table UserID (
 	Ten nvarchar(50),
 	SĐT nvarchar(50),
 )
+Insert into UserID values('19522335@gm.uit.edu.vn','gdyb21LQTcIANtvYMT7QVQ==','Hoang','Tien','079750')
 create table Tuyen (
 	ID int IDENTITY(1,1),
 	MaTuyen nvarchar(20) primary key,

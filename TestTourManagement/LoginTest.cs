@@ -6,7 +6,7 @@ using Tour;
 
 namespace TestTourManagement
 {
-    class LoginTest
+    public class LoginTest
     {
         [SetUp]
         public void Setup()
@@ -16,7 +16,7 @@ namespace TestTourManagement
         [Test]
         public void Test1()
         {
-            Assert.AreEqual(true, TestFunction.LoginFunction("19522074@gm.uit.edu.vn", "12345"));
+            Assert.AreEqual(true, TestFunction.LoginFunction("19522074@gm.uit.edu.vn", "12345"), "Login Failed");
         }
 
         [Test]

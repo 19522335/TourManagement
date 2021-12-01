@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing; 
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -104,7 +104,7 @@ namespace Tour
         //Thêm một tuyến
         private void addbtn_Click(object sender, EventArgs e)
         {
-            if (CheckData() == true)
+            if (CheckData())
             {
                 tblTuyen route = new tblTuyen();
                 route.MaTuyen = IDtxb.Text;
@@ -175,7 +175,7 @@ namespace Tour
         {
             this.Close();
         }
-       
+
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             int start = 0, end;

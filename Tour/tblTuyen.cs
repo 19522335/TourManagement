@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tour
 {
-    class tblTuyen
+    public class tblTuyen
     {
         public int ID { set; get; }
         public string MaTuyen { set; get; }

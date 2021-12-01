@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tour
 {
-    class Customer
+    public class Customer
     {
         public int MaDuKhach { set; get; }
         public string HoTen { set; get; }
