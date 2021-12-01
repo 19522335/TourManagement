@@ -59,27 +59,21 @@ namespace Tour
         }
         private void loginbtn_Click(object sender, EventArgs e)
         {
-            if (cbghinho.Checked == true)
+            Properties.Settings.Default.Email = emailtxb.Text;
+
+            if (cbghinho.Checked)
             {
-                Properties.Settings.Default.Email = emailtxb.Text;
                 Properties.Settings.Default.Password = passwordtxb.Text;
                 Properties.Settings.Default.Save();
             }
-            if (cbghinho.Checked == false)
+            else
             {
-                Properties.Settings.Default.Email = "";
                 Properties.Settings.Default.Password = "";
                 Properties.Settings.Default.Save();
             }
-            SqlConnection sqlc = new SqlConnection(connectionString);
-            string query = "Select * from UserID Where Email ='" + emailtxb.Text.Trim() + "' and Password = '" + Encrypt(passwordtxb.Text.Trim()) + "'";
-            SqlDataAdapter sda = new SqlDataAdapter(query, sqlc);
-            DataTable dttb = new DataTable();
-            sda.Fill(dttb);
-            if (dttb.Rows.Count == 1)
+
+            if (TestFunction.LoginFunction(emailtxb.Text.Trim(), passwordtxb.Text.Trim()))
             {
-                Properties.Settings.Default.UserName = emailtxb.Text;
-                Properties.Settings.Default.Save();
                 SelectForm menuF = new SelectForm();
                 this.Hide();
                 menuF.ShowDialog();

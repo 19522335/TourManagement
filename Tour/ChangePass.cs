@@ -32,10 +32,19 @@ namespace Tour
 
         private void Resetbtn_Click(object sender, EventArgs e)
         {
-            if (newpasstxb.Text == confirmtxb.Text && newpasstxb.Text != "")
+            if (TestFunction.ResestPasswordFunction(newpasstxb.Text, confirmtxb.Text))
+            {
+                MessageBox.Show("Reset password success!!!");
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Password does not match!!!");
+            }
+            /*if (newpasstxb.Text == confirmtxb.Text && newpasstxb.Text != "")
             {
                 SqlConnection sqlc = new SqlConnection(connectionString);
-                SqlCommand sqlCmd = new SqlCommand("UPDATE [dbo].[UserID] SET [Password] ='" + /*Encrypt(*/newpasstxb.Text/*)*/ + "' WHERE Email='" + email + "' ", sqlc);
+                SqlCommand sqlCmd = new SqlCommand("UPDATE [dbo].[UserID] SET [Password] ='" + *//*Encrypt(*//*newpasstxb.Text*//*)*//* + "' WHERE Email='" + email + "' ", sqlc);
                 sqlc.Open();
                 sqlCmd.ExecuteNonQuery();
                 sqlc.Close();
@@ -45,7 +54,7 @@ namespace Tour
             else
             {
                 MessageBox.Show("Password does not match!!!");
-            }
+            }*/
         }
 
         private void Cancelbtn_Click(object sender, EventArgs e)
