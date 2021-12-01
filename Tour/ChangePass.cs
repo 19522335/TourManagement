@@ -14,7 +14,7 @@ namespace Tour
 {
     public partial class ChangePass : Form
     {
-        public static string connectionString = @"Data Source=LAPTOP-F48VJK5M;Initial Catalog=TourManagement;Integrated Security=True";
+        public static string connectionString = DataConnection.Ins.conStr;
         string email = forgotpass.to;
         static string Encrypt(string value)
         {

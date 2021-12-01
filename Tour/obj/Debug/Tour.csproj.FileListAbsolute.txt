@@ -287,3 +287,24 @@ C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ �
 C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
 C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.exe
 C:\Users\nhatt\Desktop\hoc\Tour\SE104.L22.PMCL_Team4_FinalProject_E-Tour\ĐỒ ÁN CUỐI KÌ CNPM\E-Tour-UIT\Tour\obj\Debug\Tour.pdb
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\bin\Debug\Tour.exe.config
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\bin\Debug\Tour.exe
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\bin\Debug\Tour.pdb
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.csproj.AssemblyReference.cache
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.AboutUs.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.ChangePass.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.DangKy.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.forgotpass.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.Help.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.LoginForm.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.RegisterAccount.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.SelectForm.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.StaffProfile.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.Tour.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.Properties.Resources.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.Route.resources
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.exe
+D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\obj\Debug\Tour.pdb

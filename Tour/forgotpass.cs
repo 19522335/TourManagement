@@ -17,7 +17,7 @@ namespace Tour
     {
         string randomcode;
         public static string to;
-        public static string connectionString = @"Data Source=LAPTOP-F48VJK5M;Initial Catalog=TourManagement;Integrated Security=True";
+        public static string connectionString = DataConnection.Ins.conStr;
         System.Text.RegularExpressions.Regex rEMail = new System.Text.RegularExpressions.Regex(@"^([a-zA-Z0-9_\-])([a-zA-Z0-9_\-\.]*)@(\[((25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\.){3}|((([a-zA-Z0-9\-]+)\.)+))([a-zA-Z]{2,}|(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\])$");
         public forgotpass()
         {

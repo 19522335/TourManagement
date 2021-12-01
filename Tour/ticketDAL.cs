@@ -14,7 +14,7 @@ namespace Tour
         DataConnection dc;
         SqlCommand cmd;
         //String conStr = "Data Source= DESKTOP-QLEJV95\\SQLEXPRESS; Initial Catalog=TourManagement; Integrated Security=True";
-        String conStr = "Data Source= LAPTOP-F48VJK5M; Initial Catalog = TourManagement; Integrated Security = True";
+        String conStr = DataConnection.Ins.conStr;
         public ticketDAL()
         {
             dc = new DataConnection();
@@ -42,7 +42,8 @@ namespace Tour
             catch (Exception e)
             {
                 return false;
-            } return true;
+            }
+            return true;
         }
         public bool Update(tblTicket tk)
         {

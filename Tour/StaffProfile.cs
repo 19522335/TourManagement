@@ -28,7 +28,7 @@ namespace Tour
             {
                 txbGmail.Text = Properties.Settings.Default.UserName;
             }
-            SqlConnection con = new SqlConnection("Data Source=LAPTOP-F48VJK5M;Initial Catalog=TourManagement;Integrated Security=True");
+            SqlConnection con = new SqlConnection(DataConnection.Ins.conStr);
             con.Open();
             SqlCommand cmd = new SqlCommand("Select Ho,Ten,SĐT from UserID where Email=@Email", con);
             cmd.Parameters.Add("@Email", txbGmail.Text);

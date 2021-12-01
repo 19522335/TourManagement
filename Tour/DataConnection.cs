@@ -7,18 +7,31 @@ using System.Threading.Tasks;
 
 namespace Tour
 {
-    class DataConnection
+    public class DataConnection
     {
-        String conStr;
+        public string conStr { get; set; }
         public DataConnection()
         {
             //conStr = "Data Source= DESKTOP-QLEJV95\\SQLEXPRESS; Initial Catalog=TourManagement; Integrated Security=True";
-            conStr = "Data Source= LAPTOP-F48VJK5M; Initial Catalog = TourManagement; Integrated Security = True";
+            conStr = "Data Source=ADMIN\\SQLEXPRESS;Initial Catalog=TourManagement;Integrated Security=True";
+        }
+
+        private static DataConnection _Ins;
+        public static DataConnection Ins
+        {
+            get
+            {
+                if (_Ins == null)
+                {
+                    _Ins = new DataConnection();
+                }
+                return _Ins;
+            }
         }
         public SqlConnection getConnect()
         {
             return new SqlConnection(conStr);
         }
-            
+
     }
 }

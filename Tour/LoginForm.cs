@@ -14,7 +14,7 @@ namespace Tour
 {
     public partial class LoginForm : Form
     {
-        public static string connectionString = @"Data Source=LAPTOP-F48VJK5M;Initial Catalog=TourManagement;Integrated Security=True";
+        public static string connectionString = DataConnection.Ins.conStr;
         System.Text.RegularExpressions.Regex rEMail = new System.Text.RegularExpressions.Regex(@"^([a-zA-Z0-9_\-])([a-zA-Z0-9_\-\.]*)@(\[((25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\.){3}|((([a-zA-Z0-9\-]+)\.)+))([a-zA-Z]{2,}|(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\])$");
         public LoginForm()
         {
@@ -52,10 +52,10 @@ namespace Tour
         }
         private void exitbtn_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Do you want to exit the program?", "Nofitication", MessageBoxButtons.OKCancel,MessageBoxIcon.Warning) == DialogResult.OK)
+            if (MessageBox.Show("Do you want to exit the program?", "Nofitication", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
             {
                 Application.Exit();
-            }  
+            }
         }
         private void loginbtn_Click(object sender, EventArgs e)
         {

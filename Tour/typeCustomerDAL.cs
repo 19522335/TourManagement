@@ -14,7 +14,7 @@ namespace Tour
         DataConnection dc;
         SqlCommand cmd;
         //String conStr = "Data Source= DESKTOP-QLEJV95\\SQLEXPRESS; Initial Catalog=TourManagement; Integrated Security=True";
-        String conStr = "Data Source= LAPTOP-F48VJK5M; Initial Catalog = TourManagement; Integrated Security = True";
+        String conStr = DataConnection.Ins.conStr;
         public typeCustomerDAL()
         {
             dc = new DataConnection();
@@ -30,7 +30,7 @@ namespace Tour
                 con.Open();
                 cmd.Parameters.AddWithValue("@MaLoaiKhach", tpcus.MaLoaiKhach);
                 cmd.Parameters.AddWithValue("@TenLoaiKhach", tpcus.TenLoaiKhach);
- 
+
                 //cmd.Parameters.Add("@MaLoaiKhach", SqlDbType.NVarChar).Value = tpcus.MaLoaiKhach;
                 //cmd.Parameters.Add("@TenLoaiKhach", SqlDbType.NVarChar).Value = tpcus.TenLoaiKhach;
                 //cmd.Parameters.Add("@CMND_Passport", SqlDbType.NVarChar).Value = tpcus.CMND_Passport;

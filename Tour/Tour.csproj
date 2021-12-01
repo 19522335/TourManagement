@@ -61,6 +61,7 @@
     </Compile>
     <Compile Include="ChuyenBLL.cs" />
     <Compile Include="ChuyenDAL.cs" />
+    <Compile Include="ConnectStringDB.cs" />
     <Compile Include="CSDLPhieuDatCho.cs">
       <SubType>Form</SubType>
     </Compile>
