@@ -92,8 +92,13 @@ Insert into LoaiChuyen values('TOUR01','Regular',1);
 Insert into LoaiChuyen values('TOUR02','Promotional',0.8);
 
 
+Insert into Tuyen (MaTuyen, TenTuyen, XuatPhat, DiaDiem, ThoiGianToChuc, MaLoaiTuyen) values('1', 'Ba Ria - Ben Tre', 'Ba Ria', 'Ben Tre', '1 Day 0 Night', 'ROUTE01');
+Insert into Tuyen (MaTuyen, TenTuyen, XuatPhat, DiaDiem, ThoiGianToChuc, MaLoaiTuyen) values('2', 'Viet Nam - Japan', 'Viet Nam', 'Japan', '7 Day 7 Night', 'ROUTE02');
 
-
+Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('1', '1', '2021-14-11', 'Passenger Car', 50, 'TOUR01', 1000000);
+Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('2', '1', '2021-16-12', 'Passenger Car', 50, 'TOUR02', 1000000);
+Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('3', '2', '2021-12-11', 'Plane', 100, 'TOUR01', 6000000);
+Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('4', '2', '2021-24-12', 'Plane', 100, 'TOUR02', 6000000);
 
 
 

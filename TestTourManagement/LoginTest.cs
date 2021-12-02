@@ -23,35 +23,34 @@ namespace TestTourManagement
         public void Test2()
         {
 
-            Assert.Pass();
+            Assert.AreEqual(false, TestFunction.LoginFunction("19522074@gm.uit.edu.vn", ""), "Login Success");
         }
 
         [Test]
         public void Test3()
         {
 
-            Assert.Pass();
+            Assert.AreEqual(false, TestFunction.LoginFunction("19522074", "12345"), "Login Success");
         }
 
         [Test]
         public void Test4()
         {
 
-            Assert.Pass();
+            Assert.AreEqual(false, TestFunction.LoginFunction("19522074", ""), "Login Success");
         }
 
         [Test]
         public void Test5()
         {
 
-            Assert.Pass();
+            Assert.AreEqual(false, TestFunction.LoginFunction("", "12345"), "Login Success");
         }
 
         [Test]
         public void Test6()
         {
-
-            Assert.Pass();
+            Assert.AreEqual(false, TestFunction.LoginFunction("", ""), "Login Success");
         }
     }
 }

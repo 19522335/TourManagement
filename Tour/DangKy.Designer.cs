@@ -160,10 +160,10 @@ namespace Tour
             this.panel1.Controls.Add(this.lb1);
             this.panel1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.panel1.Location = new System.Drawing.Point(7, 80);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(9, 98);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(302, 490);
+            this.panel1.Size = new System.Drawing.Size(401, 602);
             this.panel1.TabIndex = 1;
             // 
             // panel7
@@ -172,10 +172,10 @@ namespace Tour
             this.panel7.Controls.Add(this.RdForeign);
             this.panel7.Controls.Add(this.rdDomestic);
             this.panel7.ForeColor = System.Drawing.Color.Black;
-            this.panel7.Location = new System.Drawing.Point(106, 309);
-            this.panel7.Margin = new System.Windows.Forms.Padding(2);
+            this.panel7.Location = new System.Drawing.Point(141, 380);
+            this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(184, 36);
+            this.panel7.Size = new System.Drawing.Size(244, 43);
             this.panel7.TabIndex = 29;
             // 
             // RdForeign
@@ -183,10 +183,10 @@ namespace Tour
             this.RdForeign.AutoSize = true;
             this.RdForeign.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RdForeign.ForeColor = System.Drawing.Color.Black;
-            this.RdForeign.Location = new System.Drawing.Point(103, 2);
-            this.RdForeign.Margin = new System.Windows.Forms.Padding(2);
+            this.RdForeign.Location = new System.Drawing.Point(137, 2);
+            this.RdForeign.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.RdForeign.Name = "RdForeign";
-            this.RdForeign.Size = new System.Drawing.Size(73, 23);
+            this.RdForeign.Size = new System.Drawing.Size(92, 26);
             this.RdForeign.TabIndex = 18;
             this.RdForeign.Text = "Foreign";
             this.RdForeign.UseVisualStyleBackColor = true;
@@ -197,10 +197,10 @@ namespace Tour
             this.rdDomestic.Checked = true;
             this.rdDomestic.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rdDomestic.ForeColor = System.Drawing.Color.Black;
-            this.rdDomestic.Location = new System.Drawing.Point(2, 1);
-            this.rdDomestic.Margin = new System.Windows.Forms.Padding(2);
+            this.rdDomestic.Location = new System.Drawing.Point(3, 1);
+            this.rdDomestic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdDomestic.Name = "rdDomestic";
-            this.rdDomestic.Size = new System.Drawing.Size(84, 23);
+            this.rdDomestic.Size = new System.Drawing.Size(106, 26);
             this.rdDomestic.TabIndex = 17;
             this.rdDomestic.TabStop = true;
             this.rdDomestic.Text = "Domestic";
@@ -211,39 +211,41 @@ namespace Tour
             // 
             this.panel17.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel17.Controls.Add(this.tbEmail);
-            this.panel17.Location = new System.Drawing.Point(105, 209);
-            this.panel17.Margin = new System.Windows.Forms.Padding(2);
+            this.panel17.Location = new System.Drawing.Point(140, 257);
+            this.panel17.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(183, 28);
+            this.panel17.Size = new System.Drawing.Size(243, 34);
             this.panel17.TabIndex = 28;
             // 
             // tbEmail
             // 
             this.tbEmail.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbEmail.Location = new System.Drawing.Point(-2, 0);
+            this.tbEmail.Location = new System.Drawing.Point(-3, 0);
+            this.tbEmail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbEmail.MaxLength = 20;
             this.tbEmail.Name = "tbEmail";
-            this.tbEmail.Size = new System.Drawing.Size(183, 26);
+            this.tbEmail.Size = new System.Drawing.Size(243, 30);
             this.tbEmail.TabIndex = 7;
             // 
             // panel16
             // 
             this.panel16.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel16.Controls.Add(this.tbTelephone);
-            this.panel16.Location = new System.Drawing.Point(106, 162);
-            this.panel16.Margin = new System.Windows.Forms.Padding(2);
+            this.panel16.Location = new System.Drawing.Point(141, 199);
+            this.panel16.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(183, 28);
+            this.panel16.Size = new System.Drawing.Size(243, 34);
             this.panel16.TabIndex = 27;
             // 
             // tbTelephone
             // 
             this.tbTelephone.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbTelephone.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbTelephone.Location = new System.Drawing.Point(-2, 0);
+            this.tbTelephone.Location = new System.Drawing.Point(-3, 0);
+            this.tbTelephone.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbTelephone.MaxLength = 20;
             this.tbTelephone.Name = "tbTelephone";
-            this.tbTelephone.Size = new System.Drawing.Size(183, 26);
+            this.tbTelephone.Size = new System.Drawing.Size(243, 30);
             this.tbTelephone.TabIndex = 7;
             this.tbTelephone.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbTelephone_KeyPress_1);
             // 
@@ -252,10 +254,9 @@ namespace Tour
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Black;
-            this.label8.Location = new System.Drawing.Point(2, 306);
-            this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label8.Location = new System.Drawing.Point(3, 377);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(63, 21);
+            this.label8.Size = new System.Drawing.Size(78, 27);
             this.label8.TabIndex = 14;
             this.label8.Text = "Tourist";
             // 
@@ -264,10 +265,9 @@ namespace Tour
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(2, 255);
-            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label6.Location = new System.Drawing.Point(3, 314);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 21);
+            this.label6.Size = new System.Drawing.Size(83, 27);
             this.label6.TabIndex = 14;
             this.label6.Text = "Gender";
             // 
@@ -275,38 +275,40 @@ namespace Tour
             // 
             this.panel15.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel15.Controls.Add(this.tbAddress);
-            this.panel15.Location = new System.Drawing.Point(106, 114);
-            this.panel15.Margin = new System.Windows.Forms.Padding(2);
+            this.panel15.Location = new System.Drawing.Point(141, 140);
+            this.panel15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(183, 28);
+            this.panel15.Size = new System.Drawing.Size(243, 34);
             this.panel15.TabIndex = 26;
             // 
             // tbAddress
             // 
             this.tbAddress.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbAddress.Location = new System.Drawing.Point(-2, 0);
+            this.tbAddress.Location = new System.Drawing.Point(-3, 0);
+            this.tbAddress.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbAddress.MaxLength = 90;
             this.tbAddress.Name = "tbAddress";
-            this.tbAddress.Size = new System.Drawing.Size(183, 26);
+            this.tbAddress.Size = new System.Drawing.Size(243, 30);
             this.tbAddress.TabIndex = 7;
             // 
             // panel13
             // 
             this.panel13.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel13.Controls.Add(this.tbSurname);
-            this.panel13.Location = new System.Drawing.Point(106, 62);
-            this.panel13.Margin = new System.Windows.Forms.Padding(2);
+            this.panel13.Location = new System.Drawing.Point(141, 76);
+            this.panel13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(183, 28);
+            this.panel13.Size = new System.Drawing.Size(243, 34);
             this.panel13.TabIndex = 25;
             // 
             // tbSurname
             // 
             this.tbSurname.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbSurname.Location = new System.Drawing.Point(-2, 0);
+            this.tbSurname.Location = new System.Drawing.Point(-3, 0);
+            this.tbSurname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbSurname.MaxLength = 20;
             this.tbSurname.Name = "tbSurname";
-            this.tbSurname.Size = new System.Drawing.Size(183, 26);
+            this.tbSurname.Size = new System.Drawing.Size(243, 30);
             this.tbSurname.TabIndex = 7;
             this.tbSurname.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbSurname_KeyPress_1);
             // 
@@ -314,19 +316,20 @@ namespace Tour
             // 
             this.panel14.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel14.Controls.Add(this.tbName);
-            this.panel14.Location = new System.Drawing.Point(106, 13);
-            this.panel14.Margin = new System.Windows.Forms.Padding(2);
+            this.panel14.Location = new System.Drawing.Point(141, 16);
+            this.panel14.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(183, 28);
+            this.panel14.Size = new System.Drawing.Size(243, 34);
             this.panel14.TabIndex = 24;
             // 
             // tbName
             // 
             this.tbName.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbName.Location = new System.Drawing.Point(-2, 0);
+            this.tbName.Location = new System.Drawing.Point(-3, 0);
+            this.tbName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbName.MaxLength = 20;
             this.tbName.Name = "tbName";
-            this.tbName.Size = new System.Drawing.Size(183, 26);
+            this.tbName.Size = new System.Drawing.Size(243, 30);
             this.tbName.TabIndex = 7;
             this.tbName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbName_KeyPress);
             // 
@@ -334,10 +337,10 @@ namespace Tour
             // 
             this.panel10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel10.Controls.Add(this.tbCMND);
-            this.panel10.Location = new System.Drawing.Point(4, 361);
-            this.panel10.Margin = new System.Windows.Forms.Padding(2);
+            this.panel10.Location = new System.Drawing.Point(5, 444);
+            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(284, 27);
+            this.panel10.Size = new System.Drawing.Size(377, 32);
             this.panel10.TabIndex = 22;
             // 
             // tbCMND
@@ -346,10 +349,10 @@ namespace Tour
             this.tbCMND.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbCMND.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbCMND.Location = new System.Drawing.Point(-1, -2);
-            this.tbCMND.Margin = new System.Windows.Forms.Padding(2);
+            this.tbCMND.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbCMND.MaxLength = 40;
             this.tbCMND.Name = "tbCMND";
-            this.tbCMND.Size = new System.Drawing.Size(283, 26);
+            this.tbCMND.Size = new System.Drawing.Size(377, 30);
             this.tbCMND.TabIndex = 16;
             this.tbCMND.Enter += new System.EventHandler(this.tbCMND_Enter);
             this.tbCMND.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbCMND_KeyPress);
@@ -362,10 +365,10 @@ namespace Tour
             this.PnFore.Controls.Add(this.panel11);
             this.PnFore.Controls.Add(this.label7);
             this.PnFore.Controls.Add(this.lb7);
-            this.PnFore.Location = new System.Drawing.Point(-6, 401);
-            this.PnFore.Margin = new System.Windows.Forms.Padding(2);
+            this.PnFore.Location = new System.Drawing.Point(-8, 494);
+            this.PnFore.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PnFore.Name = "PnFore";
-            this.PnFore.Size = new System.Drawing.Size(295, 64);
+            this.PnFore.Size = new System.Drawing.Size(393, 79);
             this.PnFore.TabIndex = 21;
             this.PnFore.Visible = false;
             // 
@@ -375,28 +378,29 @@ namespace Tour
             this.VisaEXP.CustomFormat = "dd/MM/yyyy";
             this.VisaEXP.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.VisaEXP.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.VisaEXP.Location = new System.Drawing.Point(135, 37);
+            this.VisaEXP.Location = new System.Drawing.Point(180, 46);
+            this.VisaEXP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.VisaEXP.Name = "VisaEXP";
-            this.VisaEXP.Size = new System.Drawing.Size(156, 26);
+            this.VisaEXP.Size = new System.Drawing.Size(207, 30);
             this.VisaEXP.TabIndex = 32;
             // 
             // panel12
             // 
             this.panel12.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel12.Location = new System.Drawing.Point(135, 37);
-            this.panel12.Margin = new System.Windows.Forms.Padding(2);
+            this.panel12.Location = new System.Drawing.Point(180, 46);
+            this.panel12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(157, 21);
+            this.panel12.Size = new System.Drawing.Size(208, 25);
             this.panel12.TabIndex = 23;
             // 
             // panel11
             // 
             this.panel11.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel11.Controls.Add(this.PassEXP);
-            this.panel11.Location = new System.Drawing.Point(135, 6);
-            this.panel11.Margin = new System.Windows.Forms.Padding(2);
+            this.panel11.Location = new System.Drawing.Point(180, 7);
+            this.panel11.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(157, 23);
+            this.panel11.Size = new System.Drawing.Size(208, 27);
             this.panel11.TabIndex = 23;
             // 
             // PassEXP
@@ -405,9 +409,10 @@ namespace Tour
             this.PassEXP.CustomFormat = "dd/MM/yyyy";
             this.PassEXP.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PassEXP.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.PassEXP.Location = new System.Drawing.Point(-2, -2);
+            this.PassEXP.Location = new System.Drawing.Point(-3, -2);
+            this.PassEXP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.PassEXP.Name = "PassEXP";
-            this.PassEXP.Size = new System.Drawing.Size(156, 26);
+            this.PassEXP.Size = new System.Drawing.Size(207, 30);
             this.PassEXP.TabIndex = 31;
             // 
             // label7
@@ -415,10 +420,9 @@ namespace Tour
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(8, 35);
-            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label7.Location = new System.Drawing.Point(11, 43);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(77, 21);
+            this.label7.Size = new System.Drawing.Size(98, 27);
             this.label7.TabIndex = 24;
             this.label7.Text = "Visa Exp";
             // 
@@ -427,10 +431,9 @@ namespace Tour
             this.lb7.AutoSize = true;
             this.lb7.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb7.ForeColor = System.Drawing.Color.Black;
-            this.lb7.Location = new System.Drawing.Point(8, 6);
-            this.lb7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lb7.Location = new System.Drawing.Point(11, 7);
             this.lb7.Name = "lb7";
-            this.lb7.Size = new System.Drawing.Size(111, 21);
+            this.lb7.Size = new System.Drawing.Size(139, 27);
             this.lb7.TabIndex = 23;
             this.lb7.Text = "Passport Exp";
             // 
@@ -440,10 +443,10 @@ namespace Tour
             this.panel6.Controls.Add(this.RdMale);
             this.panel6.Controls.Add(this.RdFmale);
             this.panel6.ForeColor = System.Drawing.Color.Black;
-            this.panel6.Location = new System.Drawing.Point(106, 254);
-            this.panel6.Margin = new System.Windows.Forms.Padding(2);
+            this.panel6.Location = new System.Drawing.Point(141, 313);
+            this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(184, 36);
+            this.panel6.Size = new System.Drawing.Size(244, 43);
             this.panel6.TabIndex = 19;
             // 
             // RdMale
@@ -452,10 +455,10 @@ namespace Tour
             this.RdMale.Checked = true;
             this.RdMale.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RdMale.ForeColor = System.Drawing.Color.Black;
-            this.RdMale.Location = new System.Drawing.Point(2, 2);
-            this.RdMale.Margin = new System.Windows.Forms.Padding(2);
+            this.RdMale.Location = new System.Drawing.Point(3, 2);
+            this.RdMale.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.RdMale.Name = "RdMale";
-            this.RdMale.Size = new System.Drawing.Size(58, 23);
+            this.RdMale.Size = new System.Drawing.Size(72, 26);
             this.RdMale.TabIndex = 17;
             this.RdMale.TabStop = true;
             this.RdMale.Text = "Male";
@@ -466,10 +469,10 @@ namespace Tour
             this.RdFmale.AutoSize = true;
             this.RdFmale.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RdFmale.ForeColor = System.Drawing.Color.Black;
-            this.RdFmale.Location = new System.Drawing.Point(103, 1);
-            this.RdFmale.Margin = new System.Windows.Forms.Padding(2);
+            this.RdFmale.Location = new System.Drawing.Point(137, 1);
+            this.RdFmale.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.RdFmale.Name = "RdFmale";
-            this.RdFmale.Size = new System.Drawing.Size(71, 23);
+            this.RdFmale.Size = new System.Drawing.Size(89, 26);
             this.RdFmale.TabIndex = 18;
             this.RdFmale.Text = "Female";
             this.RdFmale.UseVisualStyleBackColor = true;
@@ -479,10 +482,9 @@ namespace Tour
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(4, 209);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Location = new System.Drawing.Point(5, 257);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(51, 21);
+            this.label4.Size = new System.Drawing.Size(68, 27);
             this.label4.TabIndex = 4;
             this.label4.Text = "Email";
             // 
@@ -491,10 +493,9 @@ namespace Tour
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(2, 162);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(3, 199);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 21);
+            this.label3.Size = new System.Drawing.Size(111, 27);
             this.label3.TabIndex = 3;
             this.label3.Text = "Telephone";
             // 
@@ -503,10 +504,9 @@ namespace Tour
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(4, 115);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(5, 142);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(73, 21);
+            this.label2.Size = new System.Drawing.Size(90, 27);
             this.label2.TabIndex = 2;
             this.label2.Text = "Address";
             // 
@@ -515,10 +515,9 @@ namespace Tour
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(2, 63);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(3, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 21);
+            this.label1.Size = new System.Drawing.Size(96, 27);
             this.label1.TabIndex = 1;
             this.label1.Text = "Surname";
             // 
@@ -527,10 +526,9 @@ namespace Tour
             this.lb1.AutoSize = true;
             this.lb1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb1.ForeColor = System.Drawing.Color.Black;
-            this.lb1.Location = new System.Drawing.Point(2, 15);
-            this.lb1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lb1.Location = new System.Drawing.Point(3, 18);
             this.lb1.Name = "lb1";
-            this.lb1.Size = new System.Drawing.Size(83, 21);
+            this.lb1.Size = new System.Drawing.Size(107, 27);
             this.lb1.TabIndex = 0;
             this.lb1.Text = "Firstname";
             // 
@@ -545,73 +543,76 @@ namespace Tour
             this.panel4.Controls.Add(this.label20);
             this.panel4.Controls.Add(this.label18);
             this.panel4.Controls.Add(this.label17);
-            this.panel4.Location = new System.Drawing.Point(320, 391);
-            this.panel4.Margin = new System.Windows.Forms.Padding(2);
+            this.panel4.Location = new System.Drawing.Point(427, 481);
+            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(336, 179);
+            this.panel4.Size = new System.Drawing.Size(447, 219);
             this.panel4.TabIndex = 4;
             // 
             // panel25
             // 
             this.panel25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel25.Controls.Add(this.tbTotal);
-            this.panel25.Location = new System.Drawing.Point(146, 123);
-            this.panel25.Margin = new System.Windows.Forms.Padding(2);
+            this.panel25.Location = new System.Drawing.Point(195, 151);
+            this.panel25.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel25.Name = "panel25";
-            this.panel25.Size = new System.Drawing.Size(180, 28);
+            this.panel25.Size = new System.Drawing.Size(239, 34);
             this.panel25.TabIndex = 34;
             // 
             // tbTotal
             // 
             this.tbTotal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbTotal.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbTotal.Location = new System.Drawing.Point(-2, 0);
+            this.tbTotal.Location = new System.Drawing.Point(-3, 0);
+            this.tbTotal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbTotal.MaxLength = 20;
             this.tbTotal.Name = "tbTotal";
             this.tbTotal.ReadOnly = true;
-            this.tbTotal.Size = new System.Drawing.Size(180, 26);
+            this.tbTotal.Size = new System.Drawing.Size(239, 30);
             this.tbTotal.TabIndex = 7;
             // 
             // panel24
             // 
             this.panel24.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel24.Controls.Add(this.tbDiscount);
-            this.panel24.Location = new System.Drawing.Point(146, 72);
-            this.panel24.Margin = new System.Windows.Forms.Padding(2);
+            this.panel24.Location = new System.Drawing.Point(195, 89);
+            this.panel24.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel24.Name = "panel24";
-            this.panel24.Size = new System.Drawing.Size(180, 28);
+            this.panel24.Size = new System.Drawing.Size(239, 34);
             this.panel24.TabIndex = 33;
             // 
             // tbDiscount
             // 
             this.tbDiscount.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbDiscount.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbDiscount.Location = new System.Drawing.Point(-2, 0);
+            this.tbDiscount.Location = new System.Drawing.Point(-3, 0);
+            this.tbDiscount.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbDiscount.MaxLength = 20;
             this.tbDiscount.Name = "tbDiscount";
             this.tbDiscount.ReadOnly = true;
-            this.tbDiscount.Size = new System.Drawing.Size(180, 26);
+            this.tbDiscount.Size = new System.Drawing.Size(239, 30);
             this.tbDiscount.TabIndex = 7;
             // 
             // panel23
             // 
             this.panel23.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel23.Controls.Add(this.tbPrice);
-            this.panel23.Location = new System.Drawing.Point(146, 23);
-            this.panel23.Margin = new System.Windows.Forms.Padding(2);
+            this.panel23.Location = new System.Drawing.Point(195, 28);
+            this.panel23.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel23.Name = "panel23";
-            this.panel23.Size = new System.Drawing.Size(180, 28);
+            this.panel23.Size = new System.Drawing.Size(239, 34);
             this.panel23.TabIndex = 32;
             // 
             // tbPrice
             // 
             this.tbPrice.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbPrice.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbPrice.Location = new System.Drawing.Point(-2, 0);
+            this.tbPrice.Location = new System.Drawing.Point(-3, 0);
+            this.tbPrice.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbPrice.MaxLength = 20;
             this.tbPrice.Name = "tbPrice";
             this.tbPrice.ReadOnly = true;
-            this.tbPrice.Size = new System.Drawing.Size(180, 26);
+            this.tbPrice.Size = new System.Drawing.Size(239, 30);
             this.tbPrice.TabIndex = 7;
             this.tbPrice.TextChanged += new System.EventHandler(this.tbPrice_TextChanged);
             // 
@@ -621,10 +622,10 @@ namespace Tour
             this.btReset.BackColor = System.Drawing.SystemColors.Highlight;
             this.btReset.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btReset.ForeColor = System.Drawing.Color.White;
-            this.btReset.Location = new System.Drawing.Point(233, 223);
-            this.btReset.Margin = new System.Windows.Forms.Padding(2);
+            this.btReset.Location = new System.Drawing.Point(311, 274);
+            this.btReset.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btReset.Name = "btReset";
-            this.btReset.Size = new System.Drawing.Size(84, 33);
+            this.btReset.Size = new System.Drawing.Size(112, 41);
             this.btReset.TabIndex = 21;
             this.btReset.Text = "RESET";
             this.btReset.UseVisualStyleBackColor = false;
@@ -635,10 +636,9 @@ namespace Tour
             this.label20.AutoSize = true;
             this.label20.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.ForeColor = System.Drawing.Color.Black;
-            this.label20.Location = new System.Drawing.Point(9, 123);
-            this.label20.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label20.Location = new System.Drawing.Point(12, 151);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(48, 21);
+            this.label20.Size = new System.Drawing.Size(60, 27);
             this.label20.TabIndex = 18;
             this.label20.Text = "Total";
             // 
@@ -647,10 +647,9 @@ namespace Tour
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.ForeColor = System.Drawing.Color.Black;
-            this.label18.Location = new System.Drawing.Point(9, 72);
-            this.label18.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label18.Location = new System.Drawing.Point(12, 89);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(77, 21);
+            this.label18.Size = new System.Drawing.Size(98, 27);
             this.label18.TabIndex = 14;
             this.label18.Text = "Discount";
             // 
@@ -659,10 +658,9 @@ namespace Tour
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.Black;
-            this.label17.Location = new System.Drawing.Point(9, 23);
-            this.label17.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label17.Location = new System.Drawing.Point(12, 28);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(48, 21);
+            this.label17.Size = new System.Drawing.Size(62, 27);
             this.label17.TabIndex = 12;
             this.label17.Text = "Price";
             // 
@@ -676,10 +674,9 @@ namespace Tour
             this.lbTime.BackColor = System.Drawing.Color.Transparent;
             this.lbTime.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbTime.ForeColor = System.Drawing.Color.Black;
-            this.lbTime.Location = new System.Drawing.Point(191, 11);
-            this.lbTime.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbTime.Location = new System.Drawing.Point(255, 14);
             this.lbTime.Name = "lbTime";
-            this.lbTime.Size = new System.Drawing.Size(106, 19);
+            this.lbTime.Size = new System.Drawing.Size(141, 23);
             this.lbTime.TabIndex = 6;
             // 
             // contextMenuStrip1
@@ -695,10 +692,10 @@ namespace Tour
             this.panel3.Controls.Add(this.label21);
             this.panel3.Controls.Add(this.lbTime);
             this.panel3.Controls.Add(this.rtbreservation);
-            this.panel3.Location = new System.Drawing.Point(668, 80);
-            this.panel3.Margin = new System.Windows.Forms.Padding(2);
+            this.panel3.Location = new System.Drawing.Point(891, 98);
+            this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(317, 292);
+            this.panel3.Size = new System.Drawing.Size(421, 358);
             this.panel3.TabIndex = 9;
             // 
             // label21
@@ -706,20 +703,19 @@ namespace Tour
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.Color.Black;
-            this.label21.Location = new System.Drawing.Point(2, 8);
-            this.label21.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label21.Location = new System.Drawing.Point(3, 10);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(67, 21);
+            this.label21.Size = new System.Drawing.Size(86, 27);
             this.label21.TabIndex = 8;
             this.label21.Text = "Receipt";
             // 
             // rtbreservation
             // 
-            this.rtbreservation.Location = new System.Drawing.Point(-2, 35);
-            this.rtbreservation.Margin = new System.Windows.Forms.Padding(2);
+            this.rtbreservation.Location = new System.Drawing.Point(-3, 43);
+            this.rtbreservation.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rtbreservation.Name = "rtbreservation";
             this.rtbreservation.ReadOnly = true;
-            this.rtbreservation.Size = new System.Drawing.Size(316, 255);
+            this.rtbreservation.Size = new System.Drawing.Size(420, 313);
             this.rtbreservation.TabIndex = 0;
             this.rtbreservation.Text = "";
             // 
@@ -728,19 +724,19 @@ namespace Tour
             this.panel9.BackColor = System.Drawing.Color.Transparent;
             this.panel9.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel9.Controls.Add(this.rtbTicket);
-            this.panel9.Location = new System.Drawing.Point(668, 391);
-            this.panel9.Margin = new System.Windows.Forms.Padding(2);
+            this.panel9.Location = new System.Drawing.Point(891, 481);
+            this.panel9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(316, 179);
+            this.panel9.Size = new System.Drawing.Size(420, 219);
             this.panel9.TabIndex = 10;
             // 
             // rtbTicket
             // 
-            this.rtbTicket.Location = new System.Drawing.Point(-2, -2);
-            this.rtbTicket.Margin = new System.Windows.Forms.Padding(2);
+            this.rtbTicket.Location = new System.Drawing.Point(-3, -2);
+            this.rtbTicket.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rtbTicket.Name = "rtbTicket";
             this.rtbTicket.ReadOnly = true;
-            this.rtbTicket.Size = new System.Drawing.Size(316, 179);
+            this.rtbTicket.Size = new System.Drawing.Size(420, 219);
             this.rtbTicket.TabIndex = 0;
             this.rtbTicket.Text = "";
             // 
@@ -749,10 +745,9 @@ namespace Tour
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label5.Location = new System.Drawing.Point(20, 20);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Location = new System.Drawing.Point(27, 25);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(0, 21);
+            this.label5.Size = new System.Drawing.Size(0, 27);
             this.label5.TabIndex = 0;
             // 
             // panel8
@@ -772,104 +767,108 @@ namespace Tour
             this.panel8.Controls.Add(this.label12);
             this.panel8.Controls.Add(this.label13);
             this.panel8.ForeColor = System.Drawing.Color.Black;
-            this.panel8.Location = new System.Drawing.Point(-2, -2);
-            this.panel8.Margin = new System.Windows.Forms.Padding(2);
+            this.panel8.Location = new System.Drawing.Point(-3, -2);
+            this.panel8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(336, 292);
+            this.panel8.Size = new System.Drawing.Size(447, 358);
             this.panel8.TabIndex = 6;
             // 
             // panel22
             // 
             this.panel22.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel22.Controls.Add(this.tbDuration);
-            this.panel22.Location = new System.Drawing.Point(146, 254);
-            this.panel22.Margin = new System.Windows.Forms.Padding(2);
+            this.panel22.Location = new System.Drawing.Point(195, 313);
+            this.panel22.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(180, 28);
+            this.panel22.Size = new System.Drawing.Size(239, 34);
             this.panel22.TabIndex = 31;
             // 
             // tbDuration
             // 
             this.tbDuration.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbDuration.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbDuration.Location = new System.Drawing.Point(-2, 0);
+            this.tbDuration.Location = new System.Drawing.Point(-3, 0);
+            this.tbDuration.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbDuration.MaxLength = 20;
             this.tbDuration.Name = "tbDuration";
             this.tbDuration.ReadOnly = true;
-            this.tbDuration.Size = new System.Drawing.Size(180, 26);
+            this.tbDuration.Size = new System.Drawing.Size(239, 30);
             this.tbDuration.TabIndex = 7;
             // 
             // panel21
             // 
             this.panel21.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel21.Controls.Add(this.tbDate);
-            this.panel21.Location = new System.Drawing.Point(146, 210);
-            this.panel21.Margin = new System.Windows.Forms.Padding(2);
+            this.panel21.Location = new System.Drawing.Point(195, 258);
+            this.panel21.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(180, 28);
+            this.panel21.Size = new System.Drawing.Size(239, 34);
             this.panel21.TabIndex = 30;
             // 
             // tbDate
             // 
             this.tbDate.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbDate.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbDate.Location = new System.Drawing.Point(-2, 0);
+            this.tbDate.Location = new System.Drawing.Point(-3, 0);
+            this.tbDate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbDate.MaxLength = 20;
             this.tbDate.Name = "tbDate";
             this.tbDate.ReadOnly = true;
-            this.tbDate.Size = new System.Drawing.Size(180, 26);
+            this.tbDate.Size = new System.Drawing.Size(239, 30);
             this.tbDate.TabIndex = 7;
             // 
             // panel20
             // 
             this.panel20.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel20.Controls.Add(this.tbAmount);
-            this.panel20.Location = new System.Drawing.Point(146, 162);
-            this.panel20.Margin = new System.Windows.Forms.Padding(2);
+            this.panel20.Location = new System.Drawing.Point(195, 199);
+            this.panel20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(180, 28);
+            this.panel20.Size = new System.Drawing.Size(239, 34);
             this.panel20.TabIndex = 29;
             // 
             // tbAmount
             // 
             this.tbAmount.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbAmount.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbAmount.Location = new System.Drawing.Point(-2, 0);
+            this.tbAmount.Location = new System.Drawing.Point(-3, 0);
+            this.tbAmount.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbAmount.MaxLength = 20;
             this.tbAmount.Name = "tbAmount";
             this.tbAmount.ReadOnly = true;
-            this.tbAmount.Size = new System.Drawing.Size(179, 26);
+            this.tbAmount.Size = new System.Drawing.Size(238, 30);
             this.tbAmount.TabIndex = 7;
             // 
             // panel19
             // 
             this.panel19.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel19.Controls.Add(this.tbVehicle);
-            this.panel19.Location = new System.Drawing.Point(146, 114);
-            this.panel19.Margin = new System.Windows.Forms.Padding(2);
+            this.panel19.Location = new System.Drawing.Point(195, 140);
+            this.panel19.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(180, 28);
+            this.panel19.Size = new System.Drawing.Size(239, 34);
             this.panel19.TabIndex = 28;
             // 
             // tbVehicle
             // 
             this.tbVehicle.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbVehicle.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbVehicle.Location = new System.Drawing.Point(-2, 0);
+            this.tbVehicle.Location = new System.Drawing.Point(-3, 0);
+            this.tbVehicle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbVehicle.MaxLength = 20;
             this.tbVehicle.Name = "tbVehicle";
             this.tbVehicle.ReadOnly = true;
-            this.tbVehicle.Size = new System.Drawing.Size(180, 26);
+            this.tbVehicle.Size = new System.Drawing.Size(239, 30);
             this.tbVehicle.TabIndex = 7;
             // 
             // panel18
             // 
             this.panel18.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel18.Controls.Add(this.cbDes);
-            this.panel18.Location = new System.Drawing.Point(146, 62);
-            this.panel18.Margin = new System.Windows.Forms.Padding(2);
+            this.panel18.Location = new System.Drawing.Point(195, 76);
+            this.panel18.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(180, 28);
+            this.panel18.Size = new System.Drawing.Size(239, 34);
             this.panel18.TabIndex = 18;
             // 
             // cbDes
@@ -880,9 +879,9 @@ namespace Tour
             this.cbDes.ForeColor = System.Drawing.Color.Black;
             this.cbDes.FormattingEnabled = true;
             this.cbDes.Location = new System.Drawing.Point(0, 0);
-            this.cbDes.Margin = new System.Windows.Forms.Padding(2);
+            this.cbDes.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cbDes.Name = "cbDes";
-            this.cbDes.Size = new System.Drawing.Size(178, 27);
+            this.cbDes.Size = new System.Drawing.Size(236, 30);
             this.cbDes.TabIndex = 4;
             this.cbDes.SelectedValueChanged += new System.EventHandler(this.cbDes_SelectedValueChanged);
             // 
@@ -891,10 +890,9 @@ namespace Tour
             this.label19.AutoSize = true;
             this.label19.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.Black;
-            this.label19.Location = new System.Drawing.Point(9, 254);
-            this.label19.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label19.Location = new System.Drawing.Point(12, 313);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(74, 21);
+            this.label19.Size = new System.Drawing.Size(97, 27);
             this.label19.TabIndex = 16;
             this.label19.Text = "Duration";
             // 
@@ -903,10 +901,9 @@ namespace Tour
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.Black;
-            this.label15.Location = new System.Drawing.Point(8, 160);
-            this.label15.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label15.Location = new System.Drawing.Point(11, 197);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(70, 21);
+            this.label15.Size = new System.Drawing.Size(90, 27);
             this.label15.TabIndex = 15;
             this.label15.Text = "Amount";
             // 
@@ -915,10 +912,9 @@ namespace Tour
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Black;
-            this.label11.Location = new System.Drawing.Point(24, 5);
-            this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label11.Location = new System.Drawing.Point(32, 6);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(281, 31);
+            this.label11.Size = new System.Drawing.Size(336, 37);
             this.label11.TabIndex = 13;
             this.label11.Text = "Destination Information ";
             // 
@@ -927,10 +923,9 @@ namespace Tour
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.Black;
-            this.label16.Location = new System.Drawing.Point(8, 209);
-            this.label16.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label16.Location = new System.Drawing.Point(11, 257);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(44, 21);
+            this.label16.Size = new System.Drawing.Size(58, 27);
             this.label16.TabIndex = 11;
             this.label16.Text = "Date";
             // 
@@ -939,10 +934,9 @@ namespace Tour
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.Black;
-            this.label14.Location = new System.Drawing.Point(9, 115);
-            this.label14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label14.Location = new System.Drawing.Point(12, 142);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(63, 21);
+            this.label14.Size = new System.Drawing.Size(82, 27);
             this.label14.TabIndex = 7;
             this.label14.Text = "Vehicle";
             // 
@@ -951,10 +945,9 @@ namespace Tour
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.Black;
-            this.label12.Location = new System.Drawing.Point(9, 63);
-            this.label12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label12.Location = new System.Drawing.Point(12, 78);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(70, 21);
+            this.label12.Size = new System.Drawing.Size(87, 27);
             this.label12.TabIndex = 2;
             this.label12.Text = "Tour ID";
             // 
@@ -963,10 +956,9 @@ namespace Tour
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label13.Location = new System.Drawing.Point(20, 20);
-            this.label13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label13.Location = new System.Drawing.Point(27, 25);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(0, 21);
+            this.label13.Size = new System.Drawing.Size(0, 27);
             this.label13.TabIndex = 0;
             // 
             // panel2
@@ -975,10 +967,10 @@ namespace Tour
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel2.Controls.Add(this.panel8);
             this.panel2.Controls.Add(this.label5);
-            this.panel2.Location = new System.Drawing.Point(320, 80);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(427, 98);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(336, 292);
+            this.panel2.Size = new System.Drawing.Size(447, 358);
             this.panel2.TabIndex = 2;
             // 
             // panel5
@@ -989,8 +981,9 @@ namespace Tour
             this.panel5.Controls.Add(this.label22);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel5.Location = new System.Drawing.Point(0, 0);
+            this.panel5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(984, 75);
+            this.panel5.Size = new System.Drawing.Size(1312, 92);
             this.panel5.TabIndex = 14;
             // 
             // backtotourbtn
@@ -1001,9 +994,10 @@ namespace Tour
             this.backtotourbtn.FlatAppearance.BorderSize = 0;
             this.backtotourbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.backtotourbtn.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.backtotourbtn.Location = new System.Drawing.Point(7, 12);
+            this.backtotourbtn.Location = new System.Drawing.Point(9, 15);
+            this.backtotourbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.backtotourbtn.Name = "backtotourbtn";
-            this.backtotourbtn.Size = new System.Drawing.Size(73, 38);
+            this.backtotourbtn.Size = new System.Drawing.Size(97, 47);
             this.backtotourbtn.TabIndex = 8;
             this.backtotourbtn.Text = "Back";
             this.backtotourbtn.UseVisualStyleBackColor = false;
@@ -1014,10 +1008,9 @@ namespace Tour
             this.lbDate.BackColor = System.Drawing.Color.Transparent;
             this.lbDate.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbDate.ForeColor = System.Drawing.Color.Black;
-            this.lbDate.Location = new System.Drawing.Point(796, 46);
-            this.lbDate.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbDate.Location = new System.Drawing.Point(1061, 57);
             this.lbDate.Name = "lbDate";
-            this.lbDate.Size = new System.Drawing.Size(186, 29);
+            this.lbDate.Size = new System.Drawing.Size(248, 36);
             this.lbDate.TabIndex = 7;
             // 
             // label22
@@ -1025,9 +1018,10 @@ namespace Tour
             this.label22.BackColor = System.Drawing.Color.Transparent;
             this.label22.Font = new System.Drawing.Font("Times New Roman", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.ForeColor = System.Drawing.Color.Red;
-            this.label22.Location = new System.Drawing.Point(251, 0);
+            this.label22.Location = new System.Drawing.Point(335, 0);
+            this.label22.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(502, 75);
+            this.label22.Size = new System.Drawing.Size(669, 92);
             this.label22.TabIndex = 9;
             this.label22.Text = "TICKET REGISTER";
             this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1042,10 +1036,10 @@ namespace Tour
             this.btExit.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btExit.ForeColor = System.Drawing.Color.Red;
             this.btExit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btExit.Location = new System.Drawing.Point(906, 576);
-            this.btExit.Margin = new System.Windows.Forms.Padding(2);
+            this.btExit.Location = new System.Drawing.Point(1208, 709);
+            this.btExit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btExit.Name = "btExit";
-            this.btExit.Size = new System.Drawing.Size(67, 25);
+            this.btExit.Size = new System.Drawing.Size(89, 31);
             this.btExit.TabIndex = 13;
             this.btExit.Text = "EXIT";
             this.btExit.UseVisualStyleBackColor = false;
@@ -1060,10 +1054,10 @@ namespace Tour
             this.btCreate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btCreate.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCreate.ForeColor = System.Drawing.Color.Black;
-            this.btCreate.Location = new System.Drawing.Point(718, 576);
-            this.btCreate.Margin = new System.Windows.Forms.Padding(2);
+            this.btCreate.Location = new System.Drawing.Point(957, 709);
+            this.btCreate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btCreate.Name = "btCreate";
-            this.btCreate.Size = new System.Drawing.Size(85, 25);
+            this.btCreate.Size = new System.Drawing.Size(113, 31);
             this.btCreate.TabIndex = 13;
             this.btCreate.Text = "CREATE";
             this.btCreate.UseVisualStyleBackColor = true;
@@ -1078,10 +1072,10 @@ namespace Tour
             this.btnGo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGo.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGo.ForeColor = System.Drawing.Color.Black;
-            this.btnGo.Location = new System.Drawing.Point(807, 576);
-            this.btnGo.Margin = new System.Windows.Forms.Padding(2);
+            this.btnGo.Location = new System.Drawing.Point(1076, 709);
+            this.btnGo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnGo.Name = "btnGo";
-            this.btnGo.Size = new System.Drawing.Size(95, 25);
+            this.btnGo.Size = new System.Drawing.Size(127, 31);
             this.btnGo.TabIndex = 13;
             this.btnGo.Text = "MANAGE";
             this.btnGo.UseVisualStyleBackColor = true;
@@ -1095,9 +1089,10 @@ namespace Tour
             this.btngotocsdl.FlatAppearance.BorderSize = 0;
             this.btngotocsdl.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btngotocsdl.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btngotocsdl.Location = new System.Drawing.Point(13, 577);
+            this.btngotocsdl.Location = new System.Drawing.Point(17, 710);
+            this.btngotocsdl.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btngotocsdl.Name = "btngotocsdl";
-            this.btngotocsdl.Size = new System.Drawing.Size(219, 29);
+            this.btngotocsdl.Size = new System.Drawing.Size(292, 36);
             this.btngotocsdl.TabIndex = 15;
             this.btngotocsdl.Text = "Go to ticket database";
             this.btngotocsdl.UseVisualStyleBackColor = false;
@@ -1105,12 +1100,12 @@ namespace Tour
             // 
             // DangKy
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.Linen;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(984, 611);
+            this.ClientSize = new System.Drawing.Size(1312, 752);
             this.Controls.Add(this.btngotocsdl);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.btExit);
@@ -1123,7 +1118,7 @@ namespace Tour
             this.Controls.Add(this.panel9);
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "DangKy";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DangKy";

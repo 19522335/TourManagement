@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Tour
@@ -63,9 +64,9 @@ namespace Tour
             string sql = "Insert into Tuyen(MaTuyen, TenTuyen, XuatPhat, DiaDiem, MaLoaiTuyen,  ThoiGianToChuc) values(@MaTuyen,@TenTuyen, @XuatPhat, @DiaDiem, @MaLoaiTuyen, @ThoiGianToChuc)";
             SqlConnection con = DataConnection.Ins.getConnect();
             SqlCommand cmd;
+            cmd = new SqlCommand(sql, con);
             try
             {
-                cmd = new SqlCommand(sql, con);
                 con.Open();
                 cmd.Parameters.Add("@MaTuyen", SqlDbType.NVarChar).Value = route.MaTuyen;
                 cmd.Parameters.Add("@TenTuyen", SqlDbType.NVarChar).Value = route.TenTuyen;
@@ -80,6 +81,7 @@ namespace Tour
             {
                 return false;
             }
+
             return true;
         }
 
@@ -122,7 +124,7 @@ namespace Tour
             return true;
         }
 
-        public static bool CheckTourDataFunction(string idTuyen, string idtrip, string hour, string minute, bool regular, bool promotional, string price, string transport, out string message)
+        public static bool CheckTourDataFunction(string idTuyen, string idtrip, string hour, string minute, string price, string transport, out string message)
         {
             if (string.IsNullOrEmpty(idTuyen))
             {
@@ -142,11 +144,6 @@ namespace Tour
             if (string.IsNullOrEmpty(minute))
             {
                 message = "Please choose the minute";
-                return false;
-            }
-            if (!regular && !promotional)
-            {
-                message = "Please Check the type of trip box";
                 return false;
             }
             if (string.IsNullOrEmpty(price))
@@ -178,8 +175,8 @@ namespace Tour
                     cmd.Parameters.AddWithValue("@HoTen", cus.HoTen);
                     cmd.Parameters.AddWithValue("@DiaChi", cus.DiaChi);
                     cmd.Parameters.AddWithValue("@SDT", cus.SDT);
-                    cmd.Parameters.AddWithValue("@MaLoaiKhach", cus.MaLoaiKhach);
-                    cmd.Parameters.AddWithValue("@GioiTinh", cus.GioiTinh);
+                    cmd.Parameters.AddWithValue("@MaLoaiKhach", "CUS002");
+                    cmd.Parameters.AddWithValue("@GioiTinh", "Male");
                     cmd.Parameters.AddWithValue("@CMND_Passport", cus.CMND_Passport);
                     cmd.Parameters.AddWithValue("@HanPassport", cus.HanPassport);
                     cmd.Parameters.AddWithValue("@HanVisa", cus.HanVisa);
@@ -206,8 +203,8 @@ namespace Tour
                     cmd.Parameters.AddWithValue("@HoTen", cus.HoTen);
                     cmd.Parameters.AddWithValue("@DiaChi", cus.DiaChi);
                     cmd.Parameters.AddWithValue("@SDT", cus.SDT);
-                    cmd.Parameters.AddWithValue("@MaLoaiKhach", cus.MaLoaiKhach);
-                    cmd.Parameters.AddWithValue("@GioiTinh", cus.GioiTinh);
+                    cmd.Parameters.AddWithValue("@MaLoaiKhach", "CUS001");
+                    cmd.Parameters.AddWithValue("@GioiTinh", "Female");
                     cmd.Parameters.AddWithValue("@CMND_Passport", cus.CMND_Passport);
                     //cmd.ExecuteNonQuery();
 
@@ -226,6 +223,25 @@ namespace Tour
 
         public static bool AddTourFunction(tblChuyen tour)
         {
+            switch (tour.PhuongTien)
+            {
+                case "Train":
+                    tour.SoLuongVeMax = 100;
+                    break;
+                case "Boat":
+                    tour.SoLuongVeMax = 30;
+                    break;
+                case "Passenger Car":
+                    tour.SoLuongVeMax = 50;
+                    break;
+                case "Plane":
+                    tour.SoLuongVeMax = 100;
+                    break;
+                default:
+                    tour.SoLuongVeMax = 0;
+                    break;
+            }
+            tour.MaTuyen = "1";
             string sql = "Insert into ChuyenDuLich(MaTuyen, MaChuyen, ThoiGianKhoiHanh, MaLoaiChuyen,PhuongTien,SoLuongVeMax, GiaVe) values(@MaTuyen, @MaChuyen, @ThoiGianKhoiHanh, @MaLoaiChuyen,@PhuongTien,@SoLuongVeMax,@GiaVe)";
             SqlConnection con = DataConnection.Ins.getConnect();
             SqlCommand cmd;
@@ -250,8 +266,48 @@ namespace Tour
             return true;
         }
 
-        public static bool UpdateTourFunction(tblChuyen tour)
+        private static int GetTourID(string MaChuyen)
         {
+            int id = 0;
+            string sql = "SELECT ID FROM ChuyenDuLich WHERE MaChuyen = @MaChuyen";
+            SqlConnection con = DataConnection.Ins.getConnect();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            con.Open();
+            cmd.Parameters.AddWithValue("@MaChuyen", MaChuyen);
+            SqlDataReader da = cmd.ExecuteReader();
+            while (da.Read())
+            {
+                id = da.GetInt32(0);
+            }
+            con.Close();
+            return id;
+        }
+
+        public static bool UpdateTourFunction(tblChuyen tour, ref string message)
+        {
+            tour.MaTuyen = "1";
+            tour.MaChuyen = "100";
+            tour.identify = GetTourID(tour.MaChuyen).ToString();
+
+            switch (tour.PhuongTien)
+            {
+                case "Train":
+                    tour.SoLuongVeMax = 100;
+                    break;
+                case "Boat":
+                    tour.SoLuongVeMax = 30;
+                    break;
+                case "Passenger Car":
+                    tour.SoLuongVeMax = 50;
+                    break;
+                case "Plane":
+                    tour.SoLuongVeMax = 100;
+                    break;
+                default:
+                    tour.SoLuongVeMax = 0;
+                    break;
+            }
+
             string sql = "Update ChuyenDuLich set MaTuyen=@MaTuyen,MaChuyen=@MaChuyen, ThoiGianKhoiHanh=@ThoiGianKhoiHanh, MaLoaiChuyen=@MaLoaiChuyen,PhuongTien=@PhuongTien,SoLuongVeMax=@SoLuongVeMax,GiaVe=@GiaVe where ID=@ID";
             SqlConnection con = DataConnection.Ins.getConnect();
             SqlCommand cmd;
@@ -270,28 +326,9 @@ namespace Tour
                 cmd.ExecuteNonQuery();
                 con.Close();
             }
-            catch (Exception)
-            {
-                return false;
-            }
-            return true;
-        }
-
-        public static bool DeleteTourFunction(tblChuyen tour)
-        {
-            string sql = "Delete ChuyenDuLich where ID=@ID";
-            SqlConnection con = DataConnection.Ins.getConnect();
-            SqlCommand cmd;
-            try
-            {
-                cmd = new SqlCommand(sql, con);
-                con.Open();
-                cmd.Parameters.Add("@ID", SqlDbType.Int).Value = tour.identify;
-                cmd.ExecuteNonQuery();
-                con.Close();
-            }
             catch (Exception e)
             {
+                message = e.Message;
                 return false;
             }
             return true;
@@ -309,5 +346,117 @@ namespace Tour
                 return false;
             }
         }
+
+        private static DateTime GetTime(string MaChuyen)
+        {
+            DateTime date = new DateTime();
+            string sql = "SELECT ThoiGianKhoiHanh FROM ChuyenDuLich WHERE MaChuyen = @MaChuyen";
+            SqlConnection con = DataConnection.Ins.getConnect();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            con.Open();
+            cmd.Parameters.AddWithValue("@MaChuyen", MaChuyen);
+            SqlDataReader da = cmd.ExecuteReader();
+            while (da.Read())
+            {
+                date = da.GetDateTime(0);
+            }
+            con.Close();
+            return date;
+        }
+
+        private static string GetNameOfRoute(string MaChuyen)
+        {
+            string NameOfRoute = "";
+            string sql = "SELECT ChuyenDuLich.PhuongTien, ThoiGianKhoiHanh, TenLoaiTuyen, ThoiGianToChuc, GiaVe FROM ((ChuyenDuLich INNER JOIN Tuyen ON ChuyenDuLich.MaTuyen = Tuyen.MaTuyen) INNER JOIN LoaiTuyen ON Tuyen.MaLoaiTuyen = LoaiTuyen.MaLoaiTuyen)  WHERE MaChuyen = @MaChuyen";
+            SqlConnection con = DataConnection.Ins.getConnect();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            con.Open();
+            cmd.Parameters.AddWithValue("@MaChuyen", MaChuyen);
+            SqlDataReader da = cmd.ExecuteReader();
+            while (da.Read())
+            {
+                NameOfRoute = da.GetValue(2).ToString();
+            }
+            con.Close();
+            return NameOfRoute;
+        }
+
+        public static bool CheckDateTourFunction(string tour_id, ref string message)
+        {
+            DateTime date = GetTime(tour_id);
+            string NameOfRouteType = GetNameOfRoute(tour_id);
+            DateTime current = DateTime.Now;
+            TimeSpan Interval = date.Subtract(current);
+
+            if (NameOfRouteType == "National" && Interval.Days < 1)
+            {
+                message = "Ticket purchase deadline exceeded";
+                return false;
+            }
+
+            if (NameOfRouteType == "International" && Interval.Days < 7)
+            {
+                message = "Ticket purchase deadline exceeded";
+                return false;
+            }
+
+            return true;
+        }
+
+        public static bool CheckDateFunction(DateTime PassEXP, DateTime VisaEXP, string tour_id, ref string message)
+        {
+            DateTime date = GetTime(tour_id);
+
+            if (PassEXP.Date <= date.Date)
+            {
+                message = "Passport expire error";
+                return false;
+            }
+
+            if (VisaEXP.Date <= date.Date)
+            {
+                message = "Visa expire error";
+                return false;
+            }
+            return true;
+        }
+
+        public static bool CheckRegisterTicketFunction(string firstname, string surname, string address, string telephone, string email, string cardID)
+        {
+            var regex = new Regex("^[0-9]+$");
+            if (string.IsNullOrEmpty(firstname))
+            {
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(surname))
+            {
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(address))
+            {
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(telephone) || telephone.Length < 9)
+            {
+                return false;
+            }
+
+
+            if (string.IsNullOrEmpty(email))
+            {
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(cardID) || cardID.Length < 9)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
     }
 }

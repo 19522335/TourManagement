@@ -13,5 +13,17 @@ namespace TestTourManagement
         {
             Assert.AreEqual(true, TestFunction.ResestPasswordFunction("123456", "123456"));
         }
+
+        [Test]
+        public void Test2()
+        {
+            Assert.AreEqual(false, TestFunction.ResestPasswordFunction("123456", "12345"));
+        }
+
+        [Test]
+        public void Test3()
+        {
+            Assert.AreEqual(false, TestFunction.ResestPasswordFunction("", ""));
+        }
     }
 }
