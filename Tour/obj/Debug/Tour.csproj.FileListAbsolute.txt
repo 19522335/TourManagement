@@ -319,3 +319,35 @@ D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ 
 D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\bin\Debug\System.Security.AccessControl.xml
 D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\bin\Debug\System.Security.Permissions.xml
 D:\Study\Học kì 1 NH 2021 - 2022\Kiểm chứng phần mềm\Đồ án\ĐỒ ÁN QUẢN LÍ TOUR\TourManagement\Tour\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\Tour.exe.config
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\Tour.exe
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\Tour.pdb
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Security.Permissions.dll
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Security.Permissions.xml
+C:\Users\Asus\Downloads\Git\Testing\Tour\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.AboutUs.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.ChangePass.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.CSDLPhieuDatCho.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.DangKy.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.forgotpass.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.Help.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.LoginForm.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.RegisterAccount.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.SelectForm.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.StaffProfile.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.Tour.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.Properties.Resources.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.Route.resources
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.csproj.CopyComplete
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.exe
+C:\Users\Asus\Downloads\Git\Testing\Tour\obj\Debug\Tour.pdb
