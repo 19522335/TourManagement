@@ -390,13 +390,13 @@ namespace Tour
 
             if (NameOfRouteType == "National" && Interval.Days < 1)
             {
-                message = "Ticket purchase deadline exceeded";
+                message = "Ticket National purchase deadline exceeded";
                 return false;
             }
 
             if (NameOfRouteType == "International" && Interval.Days < 7)
             {
-                message = "Ticket purchase deadline exceeded";
+                message = "Ticket International purchase deadline exceeded";
                 return false;
             }
 

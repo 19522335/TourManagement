@@ -16,7 +16,7 @@ namespace TestTourManagement
         [Test]
         public void Test1()
         {
-            Assert.AreEqual(true, TestFunction.LoginFunction("19522074@gm.uit.edu.vn", "12345"), "Login Failed");
+            Assert.AreEqual(true, TestFunction.LoginFunction("19522335@gm.uit.edu.vn", "1234"), "Login Failed");
         }
 
         [Test]

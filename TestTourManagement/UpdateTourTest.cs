@@ -8,7 +8,7 @@ namespace TestTourManagement
 {
     public class UpdateTourTest
     {
-        /*[Test]
+        [Test]
         public void Test1()
         {
             tblChuyen tour = new tblChuyen()
@@ -60,6 +60,6 @@ namespace TestTourManagement
             };
             string message = "";
             Assert.AreEqual(true, TestFunction.UpdateTourFunction(tour, ref message), message);
-        }*/
+        }
     }
 }

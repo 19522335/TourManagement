@@ -194,8 +194,6 @@ namespace Tour
             string kind;
             if (index >= 0)
             {
-                idTuyencb.Enabled = false;
-                tb_idtrip.Enabled = false;
                 id = dgv_trip.Rows[index].Cells["identify"].Value.ToString();
                 idTuyencb.Text = dgv_trip.Rows[index].Cells["MaTuyen"].Value.ToString();
                 tb_idtrip.Text = dgv_trip.Rows[index].Cells["MaChuyen"].Value.ToString();

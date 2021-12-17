@@ -96,9 +96,9 @@ Insert into Tuyen (MaTuyen, TenTuyen, XuatPhat, DiaDiem, ThoiGianToChuc, MaLoaiT
 Insert into Tuyen (MaTuyen, TenTuyen, XuatPhat, DiaDiem, ThoiGianToChuc, MaLoaiTuyen) values('2', 'Viet Nam - Japan', 'Viet Nam', 'Japan', '7 Day 7 Night', 'ROUTE02');
 
 Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('1', '1', '2021-14-11', 'Passenger Car', 50, 'TOUR01', 1000000);
-Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('2', '1', '2021-16-12', 'Passenger Car', 50, 'TOUR02', 1000000);
+Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('2', '1', '2021-20-12', 'Passenger Car', 50, 'TOUR02', 1000000);
 Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('3', '2', '2021-12-11', 'Plane', 100, 'TOUR01', 6000000);
-Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('4', '2', '2021-24-12', 'Plane', 100, 'TOUR02', 6000000);
+Insert into ChuyenDuLich (MaChuyen, MaTuyen, ThoiGianKhoiHanh, PhuongTien, SoLuongveMax, MaLoaiChuyen, GiaVe) values('4', '2', '2021-28-12', 'Plane', 100, 'TOUR02', 6000000);
 
 
 
